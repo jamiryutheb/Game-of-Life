@@ -30,3 +30,5 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 |Populate        |`Determines the reproduction rule`  | 3|
 
 ## Preview
+
+![GoL-def - Made with Clipchamp](https://user-images.githubusercontent.com/48869563/218652910-dfe68add-9d5d-4827-bb99-c966dae01f45.gif)
