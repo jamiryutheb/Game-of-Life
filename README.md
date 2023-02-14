@@ -23,10 +23,10 @@ These rules, which compare the behaviour of the automaton to real life, can be c
 
 SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
 
-|                |Description                          |DEFAULT|
+|                |Description                          |Default|
 |----------------|------------------------------------|-----------------------------|
-|Lower Bound 	 |`Controls the underpopulation rule` |2|
-|Upper Bound     |`Controls the overpopulation rule`  |3|
-|Populate        |`Determines the reproduction rule`  |3|
+|Lower Bound 	 |`Controls the underpopulation rule` | 2|
+|Upper Bound     |`Controls the overpopulation rule`  | 3|
+|Populate        |`Determines the reproduction rule`  | 3|
 
 ## Preview
