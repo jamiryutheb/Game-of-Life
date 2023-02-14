@@ -31,4 +31,6 @@ SmartyPants converts ASCII punctuation characters into "smart" typographic punct
 
 ## Preview
 
-![GoL-def - Made with Clipchamp](https://user-images.githubusercontent.com/48869563/218652910-dfe68add-9d5d-4827-bb99-c966dae01f45.gif)
+![GoL-def](https://user-images.githubusercontent.com/48869563/218652910-dfe68add-9d5d-4827-bb99-c966dae01f45.gif)
+![GoL-rul](https://user-images.githubusercontent.com/48869563/218654056-a602bbe5-18e9-48a1-83cd-ba6aef4f606a.gif)
+
