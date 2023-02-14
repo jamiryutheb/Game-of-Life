@@ -21,7 +21,7 @@ These rules, which compare the behaviour of the automaton to real life, can be c
 
 ## How it works?
 
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+We can change the rules in this version of the program;
 
 |                |Description                          |Default|
 |----------------|------------------------------------|-----------------------------|
